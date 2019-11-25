@@ -44,17 +44,12 @@
 
 		<div class="menu container">
 
-
-			<div class="logo">
-				<img src="images/gui2.jpg" alt="guillaume ferry">
+			<a class="logo" data-to="index" href="#index">
+				<img class="portrait" src="images/gui2.jpg" alt="guillaume ferry">
 				<img src="images/gf.png" alt="logo">
-			</div>
+			</a>
 
 			<nav>
-				<div class="bgEffect">
-					<a class="navi" data-to="index" href="#index"><i class="fas fa-home fa-3x"></i>Accueil</a>
-				</div>
-
 				<div class="bgEffect">
 					<a class="navi" data-to="about" href="#about"><i class="fab fa-readme fa-3x"></i>Bio</a>
 				</div>
@@ -67,7 +62,6 @@
 					<a class="navi" data-to="form" href="#form"><i class="fas fa-at fa-3x"></i>Contact</a>
 				</div>
 			</nav>
-
 		</div>
 
 	</header>
