@@ -1,7 +1,7 @@
 <!----------------------------------------------------------------------------->
 <!-- SECTION PORTFOLIO -->
 <!----------------------------------------------------------------------------->
-<section id="portfolio" class="part3">
+<section id="portfolio" class="part3 part">
 
 	<div class="container">
 

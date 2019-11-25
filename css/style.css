@@ -217,13 +217,14 @@ INTRO
 .parallax{
 	position: relative;
 	width: 100%;
-	height: 1200px;
+	height: 100vh;
 	overflow: hidden;
 }
 
 .parallax img{
 	position: absolute;
 	width: 100%;
+	height: 120vh
 }
 
 .intro{
@@ -237,6 +238,10 @@ INTRO
 
 .intro p{
 	font-size: 1.5rem;
+}
+
+.part{
+	min-height: 100vh;
 }
 
 

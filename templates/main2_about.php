@@ -2,7 +2,7 @@
 <!--ABOUT SECTION-->
 <!----------------------------------------------------------------------------->
 
-<section id="about" class="part2">
+<section id="about" class="part2 part">
 
 	<div class="leCvPlusLaBio">
 
