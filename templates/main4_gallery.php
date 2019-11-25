@@ -21,13 +21,21 @@
 
 				<ul class="miniatureDev">
 					<li>
-						<img src="images/book/projet1.jpg" alt="projet 1">
+						<div class="crop">
+							<img src="images/book/projet1.jpg" alt="projet 1">
+						</div>
 					</li>
+
 					<li>
-						<img src="images/book/projet2.jpg" alt="projet 2">
+						<div class="crop">
+							<img src="images/book/projet2.jpg" alt="projet 2">
+						</div>
 					</li>
+
 					<li>
-						<img src="images/book/projet3.png" alt="projet 3">
+						<div class="crop">
+							<img src="images/book/projet3.png" alt="projet 3">
+						</div>
 					</li>
 				</ul>
 			</div>
@@ -43,34 +51,61 @@
 
 				<ul class="miniatureInf">
 					<li>
-						<img src="images/book/book.jpg" alt="visuel 1">
+						<div class="crop">
+							<img src="images/book/book.jpg" alt="visuel 1">
+						</div>
+					</li>
+
+					<li>
+						<div class="crop">
+							<img src="images/book/book2.jpg" alt="visuel 2">
+						</div>
+					</li>
+
+					<li>
+						<div class="crop">
+							<img src="images/book/book3.jpg" alt="visuel 3">
+						</div>
+					</li>
+
+					<li>
+						<div class="crop">
+							<img src="images/book/book4.jpg" alt="visuel 4">
+						</div>
 					</li>
 					<li>
-						<img src="images/book/book2.jpg" alt="visuel 2">
+						<div class="crop">
+							<img src="images/book/book5.jpg" alt="visuel 5">
+						</div>
+					</li>
+
+					<li>
+						<div class="crop">
+							<img src="images/book/book6.jpg" alt="visuel 6">
+						</div>
 					</li>
 					<li>
-						<img src="images/book/book3.jpg" alt="visuel 3">
+						<div class="crop">
+							<img src="images/book/book7.jpg" alt="visuel 7">
+						</div>
 					</li>
+
 					<li>
-						<img src="images/book/book4.jpg" alt="visuel 4">
+						<div class="crop">
+							<img src="images/book/book8.jpg" alt="visuel 8">
+						</div>
 					</li>
+
 					<li>
-						<img src="images/book/book5.jpg" alt="visuel 5">
+						<div class="crop">
+							<img src="images/book/book9.jpg" alt="visuel 9">
+						</div>
 					</li>
+
 					<li>
-						<img src="images/book/book6.jpg" alt="visuel 6">
-					</li>
-					<li>
-						<img src="images/book/book7.jpg" alt="visuel 7">
-					</li>
-					<li>
-						<img src="images/book/book8.jpg" alt="visuel 8">
-					</li>
-					<li>
-						<img src="images/book/book9.jpg" alt="visuel 9">
-					</li>
-					<li>
-						<img src="images/book/book10.jpg" alt="visuel 10">
+						<div class="crop">
+							<img src="images/book/book10.jpg" alt="visuel 10">
+						</div>
 					</li>
 				</ul>
 			</div>

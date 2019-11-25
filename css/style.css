@@ -811,17 +811,24 @@ padding-bottom: 100px;
 }
 
 .miniatureDev li img, .miniatureInf li img{
+	width: 110%;
+	height: 110%;
+	transition: all 0.3s;
+}
+
+.crop{
+	overflow: hidden;
+	border-radius: 50%;
 	width: 200px;
 	height: 200px;
-	border-radius: 50%;
-	padding: 5px;
 	transition: all 0.3s;
 }
 
 .survol{
-	transform: scale(1.05);
+	transform: scale(1.20);
 	transition: all 0.8s;
 }
+
 
 .imageDevSeule{
 	display: none;
