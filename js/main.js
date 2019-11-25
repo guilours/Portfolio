@@ -133,7 +133,7 @@ jQuery(document).ready(function($){
     selector: ".cd-testimonials > li",
     animation: "slide",
     controlNav: false,
-    slideshow: true,
+    slideshow: false,
     smoothHeight: true,
     start: function(){
       $('.cd-testimonials').children('li').css({
