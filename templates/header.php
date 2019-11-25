@@ -44,7 +44,7 @@
 
 		<div class="menu container">
 
-			<a class="logo" data-to="index" href="#index">
+			<a class="logo navi" data-to="index" href="#index">
 				<img class="portrait" src="images/gui2.jpg" alt="guillaume ferry">
 				<img src="images/gf.png" alt="logo">
 			</a>
