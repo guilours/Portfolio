@@ -39,7 +39,7 @@
 <script type="text/javascript" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/85807/jquery.flexslider.js"></script>
 <!----------------------------------------------------------------------------->
 <!-- Popper -->
-<script src="./js/popper.min.js"></script>
+<!-- <script src="./js/popper.min.js"></script> -->
 <!----------------------------------------------------------------------------->
 <!-- Bootstrap -->
 <script src="./js/bootstrap.min.js"></script>
