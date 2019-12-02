@@ -45,11 +45,11 @@ error_reporting(E_ALL);
 <body>
 
 	<!--Retour haut début-->
-<a name="haut" id="haut"></a>
-<div>
-<a id="cRetour" class="cInvisible" href="#haut"></a>
-</div>
-<!--Retour haut fin-->
+	<a name="haut" id="haut"></a>
+	<div>
+		<a id="cRetour" class="cInvisible" href="#haut"></a>
+	</div>
+	<!--Retour haut fin-->
 
 	<!----------------------------------------------------------------------------->
 	<!--HEADER-->
