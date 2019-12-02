@@ -10,7 +10,7 @@
 			`temoignage`;"
 		);
 		// prépare la requête (les demande à la BDD) et les mets dans une variable "$requete"
-		$requete->bindParam(':id_temoingnage', $id_temoignage);
+		// $requete->bindParam(':id_temoingnage', $id_temoignage);
 
 		// execute la variable "$requete"
 		$requete->execute();
