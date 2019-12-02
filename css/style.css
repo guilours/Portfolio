@@ -267,13 +267,13 @@ INTRO
 .parallax img{
 	position: absolute;
 	width: 100%;
-	height: 120vh
+	height: 123vh
 }
 
 .intro{
 	position: absolute;
-	width: 30%;
-	top: 70%;
+	width: 40%;
+	top: 200px;
 	left: 37%;
 	color: #4a4a4a;
 	font-family: 'Roboto', arial, sans-serif;
