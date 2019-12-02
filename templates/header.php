@@ -98,7 +98,7 @@ error_reporting(E_ALL);
 	<main>
 
 		<?php
-		//Include un peu loin, afin de bénéficier du style du site même en cas d'erreur
+		//Accès "ou pas" à la bdd selon qu'on est en local ou en ligne
 		if($_SERVER['SERVER_NAME'] != 'localhost'){
 			include('php/connexionbdd.php');
 		}
