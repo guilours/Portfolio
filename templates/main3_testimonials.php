@@ -1,7 +1,7 @@
 	<section class="temoignages">
 
 		<?php
-		include('/php/controller.php');
+		include('./php/controller.php');
 		?>
 
 		<div class="cd-testimonials-wrapper cd-container">

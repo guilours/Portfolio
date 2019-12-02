@@ -7,8 +7,8 @@
 
 	include('templates/main2_about.php');
 
-	//include('templates/main3_testimonials.php');
-	include('templates/main3_testimonials_offline.php');
+	include('templates/main3_testimonials.php');
+	// include('templates/main3_testimonials_offline.php');
 
 	include('templates/main4_gallery.php');
 

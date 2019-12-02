@@ -99,5 +99,5 @@ error_reporting(E_ALL);
 
 		<?php
 		//Include un peu loin, afin de bénéficier du style du site même en cas d'erreur
-		//include('/php/connexionbdd.php');
+		include('php/connexionbdd.php');
 		?>
