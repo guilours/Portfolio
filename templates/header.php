@@ -99,5 +99,7 @@ error_reporting(E_ALL);
 
 		<?php
 		//Include un peu loin, afin de bénéficier du style du site même en cas d'erreur
-		include('php/connexionbdd.php');
+		if($_SERVER['SERVER_NAME'] != 'localhost'){
+			include('php/connexionbdd.php');
+		}
 		?>
