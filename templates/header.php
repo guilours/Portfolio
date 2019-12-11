@@ -19,7 +19,7 @@ error_reporting(E_ALL);
 	<link rel="shortcut icon" href="favicon.ico" >
 
 	<!--MEDIA QUERY---------------------------------------------------------------->
-	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 
 	<!--FONTS---------------------------------------------------------------------->
