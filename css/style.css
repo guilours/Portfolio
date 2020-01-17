@@ -248,7 +248,7 @@ INTRO
 .part1{
 	position: relative;
 	width: 100%;
-	height: 1200px;
+	/* height: 1200px; */
 	/* background-image: url(../images/bg1.jpg);
 	background-size: cover;
 	background-position: bottom;
@@ -924,6 +924,7 @@ FORMULAIRE
 	margin: auto;
 	padding: 20px;
 	background-color: rgba(0,0,0,0.2);
+	width: 65%;
 }
 
 .contact p{
