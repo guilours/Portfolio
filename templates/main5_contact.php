@@ -7,7 +7,7 @@
 
 		<section class="contact">
 
-			<p>Vous souhaitez me faire part d'un projet ? Une question sur le métier de développeur ?
+			<p>Vous souhaitez me faire part d'un projet ? <br>Une question sur les métiers de graphiste ou développeur ?
 			</p>
 			<h2>Contactez-moi</h2>
 
