@@ -13,7 +13,7 @@
 <!----------------------------------------------------------------------------->
 <footer>
 	<p>
-		Copyright © 2019 Guillaume Ferry. Tous droits réservés
+		Copyright © 2020 Guillaume Ferry. Tous droits réservés
 	</p>
 </footer>
 <!----------------------------------------------------------------------------->
