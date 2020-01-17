@@ -24,7 +24,7 @@
 						Avec en plus un background en web design et graphisme, il a les atouts pour ajouter du « beau » au « fiable ».
 					</p>
 					<div class="cd-author">
-						<img src="images/dave.jpg" alt="Author image">
+						<img src="images/dave.png" alt="Author image">
 						<ul class="cd-author-info">
 							<li>Dave Euphrasie</li>
 							<li>Web developer FR/EN</li>

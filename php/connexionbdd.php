@@ -22,7 +22,7 @@
 		// gestion de l'encodage (caractères spéciaux, accentués.)
 		$pdo->exec("SET CHARACTER SET utf8");
 
-		// echo "Hey la connexion a réussie";
+		// echo "la connexion a réussie";
 	}
 
 	// Erreur lors de la connexion à la base de données
