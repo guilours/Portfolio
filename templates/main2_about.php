@@ -8,7 +8,7 @@
 
 		<div class="cv animation">
 			<p>Télécharger mon CV</p>
-				<a href="images/FERRY_CV_012020.pdf" target="_blank"><img src="images/pdf640.png" alt="cv"></a>
+				<a href="images/FERRY_CV.pdf" target="_blank"><img src="images/pdf640.png" alt="cv"></a>
 		</div>
 
 		<div class="bio">
