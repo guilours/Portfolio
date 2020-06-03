@@ -1,9 +1,13 @@
 <?php
 
-	$host 	= "justeavaqeguisql.mysql.db";
-	$user 	= "justeavaqeguisql";
-	$pass 	= "wODp0WCgMPiC";
-	$dbname 	= "justeavaqeguisql";
+	$host 	= "justeaw473.mysql.db";
+	$user 	= "justeaw473";
+	$pass 	= "MotTemporaire5ecure159";
+	$dbname 	= "justeaw473";
+	// $host 	= "justeavaqeguisql.mysql.db";
+	// $user 	= "justeavaqeguisql";
+	// $pass 	= "wODp0WCgMPiC";
+	// $dbname 	= "justeavaqeguisql";
 
 	try {
 
