@@ -32,7 +32,7 @@
 	// Erreur lors de la connexion à la base de données
 	catch (PDOException $e) {
 
-		echo "Erreur lors de la connexion a la base de données :<br />";
+		echo "Erreur lors de la connexion à la base de données :<br />";
 		echo "<pre>" . $e->getMessage() . "</pre><br/>";
 
 		die();
