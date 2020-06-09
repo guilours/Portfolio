@@ -13,9 +13,9 @@
 
 		<div class="bio">
 
-			<p class="paragraf1 animation">Graphiste de formation. Passionné, Geek depuis toujours, orienté nouvelles technologies ciné jeux vidéos. j'ai augmenté mes compétences avec une formation de développeur web, ainsi découvrir de nouveaux horizons.
+			<p class="paragraf1 animation">Graphiste de formation. Passionné, Geek depuis toujours, orienté nouvelles technologies ciné jeux vidéos. j'ai augmenté mes compétences avec une formation de développeur web, ainsi parfaire mes connaissances.
 				<br>
-				Formé aux langages HTML, CSS, JavaScript, PHP et MySQL à l'école 3W Academy et fort d'un titre RNCP niv. 3 (Bac+2), je m'engage maintenant sur cette double voie Développeur intégrateur / Graphiste, apportant une expérience globale et mon expertise.
+				Formé aux langages HTML, CSS, JavaScript, PHP et MySQL à l'école 3W Academy et fort d'un titre RNCP 3, je m'engage maintenant sur cette double voie Graphiste intégrateur, apportant une expérience globale et mon expertise.
 			</p>
 			<p class="paragraf2 animation">Rigoureux, attentif aux demandes clients, doué d'un sens créatif large et d'une bonne maîtrise de la chaîne graphique. Expériences de plusieurs années au sein des services de communications d’une entreprise de loisirs et diverses entreprises du secteur.
 			</p>

@@ -13,7 +13,7 @@ error_reporting(E_ALL);
 	<title>Guillaume Ferry</title>
 	<meta charset="UTF-8">
 	<!--DESCRIPTION---------------------------------------------------------------->
-	<meta name="description" content="Guillaume ferry. Site développeur et graphiste professionnel avec une biographie un portfolio et un formulaire de contact">
+	<meta name="description" content="Guillaume ferry, graphiste intégrateur professionnel avec une biographie un portfolio et un formulaire de contact">
 
 	<!--FAVICON-------------------------------------------------------------------->
 	<link rel="shortcut icon" href="favicon.ico" >
@@ -93,7 +93,7 @@ error_reporting(E_ALL);
 		<div>
 			<img src="images/book/projet2.jpg" alt="projet 1">
 		</div>
-		<p>légende de l'image</p>
+		<p>description</p>
 	</div>
 	<main>
 
