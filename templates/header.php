@@ -13,7 +13,7 @@ error_reporting(E_ALL);
 	<title>Guillaume Ferry</title>
 	<meta charset="UTF-8">
 	<!--DESCRIPTION---------------------------------------------------------------->
-	<meta name="description" content="Guillaume ferry, graphiste intégrateur professionnel avec une biographie un portfolio et un formulaire de contact">
+	<meta name="description" content="Guillaume ferry, graphiste intégrateur. Site avec une biographie, un portfolio, un formulaire de contact et un lien vers un cv en pdf.">
 
 	<!--FAVICON-------------------------------------------------------------------->
 	<link rel="shortcut icon" href="favicon.ico" >

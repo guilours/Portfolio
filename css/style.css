@@ -836,7 +836,7 @@ padding-bottom: 100px;
 }
 
 .miniatureDev, .miniatureInf{
-	width: 100%;
+	width: 95%;
 	margin: 15px auto 0;
 	padding: 0;
 	display: flex;
@@ -848,7 +848,7 @@ padding-bottom: 100px;
 
 .miniatureDev li, .miniatureInf li{
 	list-style-type: none;
-	margin: 8px;
+	margin: 10px 20px;
 }
 
 .miniatureDev li img, .miniatureInf li img{
